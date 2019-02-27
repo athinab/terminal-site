@@ -1,0 +1,6 @@
+# Vim
+**.swp
+**.swo
+
+# node.js
+node_modules/
